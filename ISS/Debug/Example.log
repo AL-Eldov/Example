@@ -1,0 +1,4 @@
+﻿  ISS.cpp
+D:\informtica\Example\ISS.cpp(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\informtica\Example\ISS.cpp(270,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Example.vcxproj -> D:\informtica\Example\Debug\Example.exe
